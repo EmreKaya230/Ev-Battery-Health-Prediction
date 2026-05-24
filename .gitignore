@@ -1,0 +1,4 @@
+data/
+battery_predictions.csv
+.venv/
+.idea/
