@@ -12,16 +12,16 @@ Metadata with battery test information
 ## Data Preprocessing
 Merged metadata and sensor data across 7,000+ CSV files
 Handled MATLAB format inconsistencies in datetime columns
-Removed columns with 74%+ missing values
+Removed columns with over than 74% missing values
 Aggregated 7M+ rows by battery ID using group mean
 
 ## Model
 Algorithm: Random Forest Regressor
-R² Score: 0.99
+R square Score: 0.99
 MAE: 0.014
 
 ## Dashboard
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/emre.kaya8517/viz/EV_Battery_Health_Analysis/Dashboard1)
 
 ## Tech Stack
-- Python, Pandas, Scikit-learn, Tableau
+Python, Pandas, Scikit-learn, Tableau
