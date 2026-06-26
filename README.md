@@ -1,10 +1,10 @@
-##EV Battery Health Prediction
+EV Battery Health Prediction
 
-#Project Overview
+Project Overview
 
 End-to-end machine learning project to predict electric vehicle battery health using NASA Battery Dataset.
 
-##Dataset
+Dataset
 
 Source: NASA Battery Dataset
 7,000+ CSV files with sensor measurements
@@ -25,8 +25,8 @@ Note: Initial model showed R² = 0.99 due to data leakage (discharge time used a
 Dashboard
 
 
-## Dashboard
+Dashboard
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/emre.kaya8517/viz/EV_Battery_Health_Analysis/Dashboard1)
 
-## Tech Stack
+Tech Stack
 Python, Pandas, Scikit-learn, Tableau
