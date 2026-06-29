@@ -26,7 +26,7 @@ Dashboard
 
 
 Dashboard
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/emre.kaya8517/viz/EV_Battery_Health_Analysis/Dashboard1)
+(https://public.tableau.com/app/profile/emre.kaya8517/viz/Book1_17827468515620/Dashboard1?publish=yes&showOnboarding=true)
 
 Tech Stack
 Python, Pandas, Scikit-learn, Tableau
