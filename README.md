@@ -2,7 +2,7 @@ EV Battery Health Prediction
 
 Project Overview
 
-End-to-end machine learning project to predict electric vehicle battery health using NASA Battery Dataset.
+End to end machine learning project to predict electric vehicle battery health using NASA Battery Dataset.
 
 Dataset
 
